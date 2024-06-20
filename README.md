@@ -25,7 +25,7 @@ The analysis focuses on understanding the relationships between different engage
 1. Data Cleaning: Handling missing values and converting data types.
 2. Exploratory Data Analysis (EDA): Visualizing distributions and relationships between metrics.
 3. Correlation Analysis: Identifying how different metrics correlate with impressions.
-4 .Modeling: Using machine learning models like PassiveAggressiveRegressor to predict engagement metrics.
+4. Modeling: Using machine learning models like PassiveAggressiveRegressor to predict engagement metrics.
 
 
 **Results**
